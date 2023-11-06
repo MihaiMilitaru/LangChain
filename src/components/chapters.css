@@ -1,0 +1,8 @@
+.left-block {
+  display: inline-block;
+}
+
+.right-block {
+  display: block;
+  float: right;
+}
